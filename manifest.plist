@@ -34,10 +34,8 @@
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>便民利企</string>
+				<string>bianminliqi</string>
 			</dict>
 		</dict>
 	</array>
